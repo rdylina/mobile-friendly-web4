@@ -1,15 +1,7 @@
-.adf {
-background-color: aquamarine;
-}
-
-.asd {
-background-color: red;
-}
-
-.dfg {
-  background-color: blue;
-}
-
-.p-25 {
-  padding-right: 25px;
+#jumbodog {
+  background: url(https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg?cs=srgb&dl=pexels-gilberto-reyes-825949.jpg&fm=jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
