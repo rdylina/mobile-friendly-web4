@@ -1,7 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 #jumbodog {
   background: url(https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg?cs=srgb&dl=pexels-gilberto-reyes-825949.jpg&fm=jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+#headerLobster {
+  font-family: 'Lobster', cursive;
+}
+
+.parallax {
+  background-attachment: fixed;
+}
+
+#top1 {
+  background-image: url(https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
 }
